@@ -1,5 +1,5 @@
 Este es nuestra segunda practica con GitHub
-Practica en parejas
+Practica en parejas con git
 Victoria
 Karen
 Diaz y Miguel
